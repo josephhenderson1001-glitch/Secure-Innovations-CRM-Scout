@@ -1,0 +1,29 @@
+test_append_only_no_duplicate_keys (test_phase5.Phase5Tests.test_append_only_no_duplicate_keys) ... ok
+test_arcgis_date_conversion (test_phase5.Phase5Tests.test_arcgis_date_conversion) ... ok
+test_initial_outbox_excludes_baseline_and_fixture (test_phase5.Phase5Tests.test_initial_outbox_excludes_baseline_and_fixture) ... ok
+test_run_sync_filters_offline_fixtures (test_phase5.Phase5Tests.test_run_sync_filters_offline_fixtures) ... ok
+test_score_excluded_still_zero (test_phase5.Phase5Tests.test_score_excluded_still_zero) ... ok
+test_signal_status_change_has_immutable_new_observation (test_phase5.Phase5Tests.test_signal_status_change_has_immutable_new_observation) ... ok
+test_changed_candidate_is_new_event_but_unchanged_is_not (test_phase6.RegionalParcelTests.test_changed_candidate_is_new_event_but_unchanged_is_not) ... ok
+test_excluded_lead_is_never_queried (test_phase6.RegionalParcelTests.test_excluded_lead_is_never_queried) ... ok
+test_export_only_public_gis_candidates (test_phase6.RegionalParcelTests.test_export_only_public_gis_candidates) ... ok
+test_geocode_mismatch_creates_review_hold_not_fake_parcel (test_phase6.RegionalParcelTests.test_geocode_mismatch_creates_review_hold_not_fake_parcel) ... ok
+test_response_limit_requires_review_and_no_event (test_phase6.RegionalParcelTests.test_response_limit_requires_review_and_no_event) ... ok
+test_seven_jurisdictions_have_distinct_government_layers (test_phase6.RegionalParcelTests.test_seven_jurisdictions_have_distinct_government_layers) ... ok
+test_spatial_candidate_never_auto_verifies_deed (test_phase6.RegionalParcelTests.test_spatial_candidate_never_auto_verifies_deed) ... ok
+test_state_postal_zip_conflict_rejected (test_phase6.RegionalParcelTests.test_state_postal_zip_conflict_rejected) ... ok
+test_fixture_url_not_written_to_google_sheets (test_phase6.WatchlistAndSyncTests.test_fixture_url_not_written_to_google_sheets) ... ok
+test_proposed_watchlist_import_does_not_infer_sale (test_phase6.WatchlistAndSyncTests.test_proposed_watchlist_import_does_not_infer_sale) ... ok
+test_sync_no_demo_rows_or_undisclosed_owner (test_phase6.WatchlistAndSyncTests.test_sync_no_demo_rows_or_undisclosed_owner) ... ok
+test_excluded_score_hard_zero (test_scout.BotTests.test_excluded_score_hard_zero) ... ok
+test_fixture_dedup (test_scout.BotTests.test_fixture_dedup) ... ok
+test_hold_cap (test_scout.BotTests.test_hold_cap) ... ok
+test_idempotent_baseline (test_scout.BotTests.test_idempotent_baseline) ... ok
+test_manual_excluded_cannot_reopen (test_scout.BotTests.test_manual_excluded_cannot_reopen) ... ok
+test_true_changed_lead_only_once (test_scout.BotTests.test_true_changed_lead_only_once) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.355s
+
+OK
+

@@ -1,0 +1,17 @@
+﻿observation_id,lead_id,observed_utc,offer,ask_usd,acres,gate,change_type,source_url,note
+16,T-009,2026-10-23,For sale (previously listed),215000.0,0.61,WATCH—NEWLY SURFACED,BASELINE,https://www.loopnet.com/Listing/642-Lincoln-St-Oxford-PA/36074774/,Phase 3 baseline; NO evidence this listing is new
+15,T-008,2026-10-23,For sale (previously listed),1300000.0,3.86,REVIEW—NEWLY SURFACED,BASELINE,https://www.loopnet.com/Listing/806-Downingtown-Pike-West-Chester-PA/34696455/,Phase 3 baseline; NO evidence this listing is new
+14,B-003,2026-10-23,For lease; conflicting advertising,,,HOLD—COMPETING USE,BASELINE,https://bennettwilliams.com/properties/5000-west-chester-pike/,Phase 3 baseline; NO evidence this listing is new
+13,B-002,2026-10-23,For sale,1900000.0,0.03,REVIEW—BANK REUSE,BASELINE,https://equitycre.com/properties/vacant-bank-branch-philadelphia-pa/,Phase 3 baseline; NO evidence this listing is new
+12,B-001,2026-10-23,For lease; past sale marketing,,1.26,REVIEW—LEASE ONLY,BASELINE,https://www.loopnet.com/Listing/3400-Chichester-Ave-Boothwyn-PA/41279545/,Phase 3 baseline; NO evidence this listing is new
+11,S-004,2026-10-23,For sale / occupied redevelopment,2850000.0,2.9,WATCH—OCCUPIED,BASELINE,https://www.loopnet.com/Listing/644-E-Cypress-St-Kennett-Square-PA/29411199/,Phase 3 baseline; NO evidence this listing is new
+10,S-003,2026-10-23,For sale; subdivision contingent,4350000.0,18.0,WATCH—SUBDIVISION,BASELINE,https://www.propertyshark.com/cre/commercial-property/us/pa/chester-springs/956-pottstown-pike-1/,Phase 3 baseline; NO evidence this listing is new
+9,S-002,2026-10-23,For sale,535000.0,2.5,HOLD—OVERLAY CHECK,BASELINE,https://www.loopnet.com/Listing/1528-Horse-Shoe-Pike-Glenmoore-PA/41424384/,Phase 3 baseline; NO evidence this listing is new
+8,S-001,2026-10-23,For sale,2400000.0,2.8,HOLD—FUEL ZONING,BASELINE,https://realmo.com/listing/487-schuylkill-road-phoenixville-pa-19460/13060726,Phase 3 baseline; NO evidence this listing is new
+7,T-007,2026-10-23,For sale; existing tenant,720000.0,0.36,WATCH—EXISTING TENANT,BASELINE,https://www.loopnet.com/Listing/1015-E-Baltimore-Pike-Media-PA/40263465/,Phase 3 baseline; NO evidence this listing is new
+6,T-006,2026-10-23,For sale,875000.0,1.33,WATCH—ZONING,BASELINE,https://www.loopnet.com/Listing/608-N-Swarthmore-Ave-Ridley-Park-PA/40714524/,Phase 3 baseline; NO evidence this listing is new
+5,T-005,2026-10-23,For sale (operating pizzeria + real estate),1900000.0,0.71,REVIEW—PRICE CONFLICT,BASELINE,https://pillarrealestateadvisors.com/property/turnkey-fully-operating-pizzeria-restaurant-real-estate-for-sale/,Phase 3 baseline; NO evidence this listing is new
+4,T-004,2026-10-23,For lease,,,REVIEW—FORMAT,BASELINE,https://bennettwilliams.com/properties/750-downingtown-pike/,Phase 3 baseline; NO evidence this listing is new
+3,T-003,2026-10-23,For sale,329500.0,1.2,HOLD—ENTITLEMENT,BASELINE,https://www.crexi.com/properties/1981440/pennsylvania-3073-horseshoe-pike,Phase 3 baseline; NO evidence this listing is new
+2,T-002,2026-10-23,For sale,1850000.0,1.2,HOLD—PARCEL IDENTITY,BASELINE,https://www.loopnet.com/Listing/363-Wilmington-pike-Glen-Mills-PA/36660406/,Phase 3 baseline; NO evidence this listing is new
+1,T-001,2026-10-23,Occupied Popeyes; old marketing superseded,,1.5,EXCLUDED—OCCUPIED,BASELINE,https://www.workstream.us/j/df0186ed/popeyes/holmes-259823?locale=en,Phase 3 baseline; NO evidence this listing is new

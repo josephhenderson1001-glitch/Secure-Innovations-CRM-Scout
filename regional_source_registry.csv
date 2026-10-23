@@ -1,0 +1,8 @@
+State,County scope,Jurisdiction,Public ArcGIS layer URL,Source type,Automatic title proof,Automatic availability proof
+PA,Chester,"Chester County, PA",https://mapservices.pasda.psu.edu/server/rest/services/pasda/ChesterCounty/MapServer/11,GOVERNMENT_GIS,NO,NO
+PA,Delaware,"Delaware County, PA",https://gis.delcopa.gov/arcgis/rest/services/Parcels/Parcels_Public_Access/FeatureServer/0,GOVERNMENT_GIS,NO,NO
+PA,Montgomery,"Montgomery County, PA",https://gis.montcopa.org/arcgis/rest/services/Parcels/Montgomery_County_Parcels/FeatureServer/10,GOVERNMENT_GIS,NO,NO
+PA,Bucks,"Bucks County, PA",https://services.pasda.psu.edu/server/rest/services/pasda/BucksCounty/MapServer/17,GOVERNMENT_GIS,NO,NO
+PA,Philadelphia,"Philadelphia, PA",https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/OPA_PROPERTIES_PUBLIC/FeatureServer/0,GOVERNMENT_GIS,NO,NO
+DE,New Castle,"New Castle County, DE",https://gis.nccde.org/agsserver/rest/services/BaseMaps/Addresses/MapServer/4,GOVERNMENT_GIS,NO,NO
+NJ,STATEWIDE,New Jersey statewide,https://services2.arcgis.com/XVOqAjTOJ5P6ngMu/arcgis/rest/services/Parcels_Composite_NJ_WM/FeatureServer/0,GOVERNMENT_GIS,NO,NO

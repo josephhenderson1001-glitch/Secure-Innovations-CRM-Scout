@@ -1,0 +1,4 @@
+# Scout itself uses only the Python standard library.
+# Optional authenticated Google Sheets sync in sheets_sync.py:
+google-auth>=2.37,<3
+requests>=2.32,<3
