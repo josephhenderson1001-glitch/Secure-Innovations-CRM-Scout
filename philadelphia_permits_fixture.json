@@ -1,0 +1,26 @@
+[
+  {
+    "permitnumber": "SYNTHETIC-TEST-PERMIT-001",
+    "address": "100 TEST FIXTURE STREET, PHILADELPHIA, PA",
+    "permitissuedate": "2026-10-01",
+    "permittype": "ZONING",
+    "typeofwork": "CHANGE OF USE",
+    "permitdescription": "SYNTHETIC TEST RECORD ONLY - NOT AN ACTUAL PERMIT",
+    "approvedscopeofwork": "Offline deduplication test",
+    "commercialorresidential": "COMMERCIAL",
+    "status": "SYNTHETIC TEST",
+    "opa_account_num": null
+  },
+  {
+    "permitnumber": "SYNTHETIC-TEST-PERMIT-002",
+    "address": "200 TEST FIXTURE AVENUE, PHILADELPHIA, PA",
+    "permitissuedate": "2026-10-02",
+    "permittype": "BUILDING",
+    "typeofwork": "NEW CONSTRUCTION",
+    "permitdescription": "SYNTHETIC TEST RECORD ONLY - NOT AN ACTUAL PERMIT",
+    "approvedscopeofwork": "Offline deduplication test",
+    "commercialorresidential": "COMMERCIAL",
+    "status": "SYNTHETIC TEST",
+    "opa_account_num": null
+  }
+]
